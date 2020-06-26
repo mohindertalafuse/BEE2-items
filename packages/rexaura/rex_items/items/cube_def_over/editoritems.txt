@@ -43,7 +43,7 @@
 				}				
 			"0"
 				{
-				"Name"              "instances/BEe2/clean/items/rex/cube_holder_black.vmf"
+				"Name"              "instances/BEE2/clean/items/rex/cube_holder_black.vmf"
 				"EntityCount"       "70"
 				"BrushCount"        "14"
 				"BrushSideCount"    "83"
